@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Little Hafiz - Mobile Demo</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #0f172a; /* Matches your portfolio dark theme */
+            font-family: system-ui, -apple-system, sans-serif;
+        }
+        
+        .phone-container {
+            position: relative;
+            width: 375px;
+            height: 812px; /* iPhone X/11/12/13 dimensions */
+            background: #000;
+            border-radius: 40px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            border: 12px solid #1e293b;
+            overflow: hidden;
+        }
+
+        .camera-notch {
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 150px;
+            height: 30px;
+            background: #1e293b;
+            border-bottom-left-radius: 16px;
+            border-bottom-right-radius: 16px;
+            z-index: 10;
+        }
+
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            background: #fff;
+        }
+
+        .rotate-message {
+            display: none;
+            position: fixed;
+            bottom: 20px;
+            color: #94a3b8;
+            font-size: 0.875rem;
+        }
+
+        /* On actual mobile devices, just show full screen */
+        @media (max-width: 768px) {
+            .phone-container {
+                width: 100%;
+                height: 100vh;
+                border: none;
+                border-radius: 0;
+            }
+            .camera-notch {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="phone-container">
+        <div class="camera-notch"></div>
+        <iframe src="index.html" title="Little Hafiz App"></iframe>
+    </div>
+    <div class="rotate-message">
+        Viewing in mobile simulator mode
+    </div>
+</body>
+</html>

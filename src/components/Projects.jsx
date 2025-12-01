@@ -41,7 +41,12 @@ const Projects = () => {
                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
               />
               <div className="absolute inset-0 bg-primary/50 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center gap-4">
-                <a href={personalInfo.contact.github} target="_blank" rel="noreferrer" className="p-2 bg-secondary rounded-full text-accent hover:bg-accent hover:text-primary transition-colors">
+                <a
+                  href={project.repoUrl || personalInfo.contact.github}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="p-2 bg-secondary rounded-full text-accent hover:bg-accent hover:text-primary transition-colors"
+                >
                   <Github size={20} />
                 </a>
                 <a href={project.demoUrl} target="_blank" rel="noreferrer" className="p-2 bg-secondary rounded-full text-accent hover:bg-accent hover:text-primary transition-colors" title={t.projects.view_demo}>

@@ -79,7 +79,8 @@ export const translations = {
           description: "Comprehensive Quran memorization app for kids and adults. Features verse-by-verse listening, custom ranges, interactive memorization games, progress tracking, and parental controls.",
           tags: ["Mobile App", "Education", "Quran", "Gamification"],
           image: "/images/LittleHaffiz.png",
-          demoUrl: "https://github.com/tellihatem/Little_Haffiz",
+          repoUrl: "https://github.com/tellihatem/Little_Haffiz",
+          demoUrl: "/projects/littleHaffiz/mobile-view.html",
           icon: "Smartphone"
         },
         {
@@ -213,7 +214,8 @@ export const translations = {
           description: "Application complète de mémorisation du Coran pour enfants et adultes. Comprend l'écoute verset par verset, plages personnalisées, jeux de mémorisation interactifs, suivi des progrès et contrôle parental.",
           tags: ["App Mobile", "Éducation", "Coran", "Ludification"],
           image: "/images/LittleHaffiz.png",
-          demoUrl: "https://github.com/tellihatem/Little_Haffiz",
+          repoUrl: "https://github.com/tellihatem/Little_Haffiz",
+          demoUrl: "/projects/littleHaffiz/mobile-view.html",
           icon: "Smartphone"
         },
         {
@@ -227,7 +229,7 @@ export const translations = {
         {
           title: "Système de Classification de Malwares",
           description: "Architecture de réseau neuronal profond multi-étapes pour prédire la classe de logiciels malveillants basée sur des images binaire-vers-niveaux de gris.",
-          tags: ["Deep Learning", "Vision par ordinateur", "Recherche"],
+          tags: ["Deep Learning", "Computer Vision", "Recherche"],
           image: "https://placehold.co/600x400/1e293b/38bdf8?text=Classification+Malware",
           demoUrl: "#",
           icon: "Brain"
@@ -347,7 +349,8 @@ export const translations = {
           description: "تطبيق شامل لحفظ القرآن الكريم للأطفال والكبار. يتميز بالاستماع آية بآية، وتحديد نطاق الحفظ، وألعاب تفاعلية للتحفيظ، وتتبع التقدم، والرقابة الأبوية.",
           tags: ["تطبيق موبايل", "تعليم", "قرآن", "تعلعيب"],
           image: "/images/LittleHaffiz.png",
-          demoUrl: "https://github.com/tellihatem/Little_Haffiz",
+          repoUrl: "https://github.com/tellihatem/Little_Haffiz",
+          demoUrl: "/projects/littleHaffiz/mobile-view.html",
           icon: "Smartphone"
         },
         {

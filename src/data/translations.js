@@ -77,7 +77,7 @@ export const translations = {
         {
           title: "Little Hafiz",
           description: "Comprehensive Quran memorization app for kids and adults. Features verse-by-verse listening, custom ranges, interactive memorization games, progress tracking, and parental controls.",
-          tags: ["Mobile App", "Education", "Quran", "Gamification"],
+          tags: ["Mobile App", "Education", "Quran", "Flutter"],
           image: "/images/LittleHaffiz.png",
           repoUrl: "https://github.com/tellihatem/Little_Haffiz",
           demoUrl: "/projects/littleHaffiz/mobile-view.html",
@@ -110,9 +110,9 @@ export const translations = {
         {
           title: "Social Media Platform",
           description: "Innovative platform with seamless sharing and end-to-end encrypted chat functionality.",
-          tags: ["Full Stack", "Encryption", "Social"],
+          tags: ["Responsive", "Encryption", "Social", "PHP"],
           image: "https://placehold.co/600x400/1e293b/38bdf8?text=Social+Media+App",
-          demoUrl: "#",
+          demoUrl: "https://tricky-mureil-thodz-82f1b2c9.koyeb.app/",
           icon: "Smartphone"
         }
       ]
@@ -212,7 +212,7 @@ export const translations = {
         {
           title: "Little Hafiz",
           description: "Application complète de mémorisation du Coran pour enfants et adultes. Comprend l'écoute verset par verset, plages personnalisées, jeux de mémorisation interactifs, suivi des progrès et contrôle parental.",
-          tags: ["App Mobile", "Éducation", "Coran", "Ludification"],
+          tags: ["App Mobile", "Éducation", "Quran", "Flutter"],
           image: "/images/LittleHaffiz.png",
           repoUrl: "https://github.com/tellihatem/Little_Haffiz",
           demoUrl: "/projects/littleHaffiz/mobile-view.html",
@@ -245,9 +245,9 @@ export const translations = {
         {
           title: "Plateforme de Médias Sociaux",
           description: "Plateforme innovante avec partage transparent et fonctionnalité de chat crypté de bout en bout.",
-          tags: ["Full Stack", "Chiffrement", "Social"],
+          tags: ["PHP", "Responsive", "Social"],
           image: "https://placehold.co/600x400/1e293b/38bdf8?text=Reseau+Social",
-          demoUrl: "#",
+          demoUrl: "https://tricky-mureil-thodz-82f1b2c9.koyeb.app/",
           icon: "Smartphone"
         }
       ]
@@ -347,7 +347,7 @@ export const translations = {
         {
           title: "الحافظ الصغير",
           description: "تطبيق شامل لحفظ القرآن الكريم للأطفال والكبار. يتميز بالاستماع آية بآية، وتحديد نطاق الحفظ، وألعاب تفاعلية للتحفيظ، وتتبع التقدم، والرقابة الأبوية.",
-          tags: ["تطبيق موبايل", "تعليم", "قرآن", "تعلعيب"],
+          tags: ["تطبيق موبايل", "تعليم", "قرآن", "Flutter"],
           image: "/images/LittleHaffiz.png",
           repoUrl: "https://github.com/tellihatem/Little_Haffiz",
           demoUrl: "/projects/littleHaffiz/mobile-view.html",
@@ -380,9 +380,9 @@ export const translations = {
         {
           title: "منصة تواصل اجتماعي",
           description: "منصة مبتكرة مع مشاركة سلسة ووظيفة دردشة مشفرة من البداية إلى النهاية.",
-          tags: ["تطوير شامل", "تشفير", "تواصل اجتماعي"],
+          tags: ["تطوير شامل", "تشفير", "تواصل اجتماعي", "PHP"],
           image: "https://placehold.co/600x400/1e293b/38bdf8?text=Social+Media+App",
-          demoUrl: "#",
+          demoUrl: "https://tricky-mureil-thodz-82f1b2c9.koyeb.app/",
           icon: "Smartphone"
         }
       ]

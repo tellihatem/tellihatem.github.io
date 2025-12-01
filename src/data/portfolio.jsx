@@ -101,7 +101,7 @@ export const personalInfo = {
       tags: ["Full Stack", "Encryption", "Social"],
       icon: <Smartphone />,
       image: "https://placehold.co/600x400/1e293b/38bdf8?text=Social+Media+App",
-      demoUrl: "#"
+      demoUrl: "https://github.com/tellihatem/THODZ_Social_Media"
     },
     {
       title: "New Project Title",

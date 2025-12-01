@@ -59,7 +59,7 @@ const Hero = () => {
               <Link to="contact" smooth={true} offset={-70} className="px-8 py-3 bg-accent text-primary font-bold rounded-lg hover:bg-accent/90 transition-colors cursor-pointer">
                 {t.hero.btn_contact}
               </Link>
-              <a href="/resume.pdf" target="_blank" className="px-8 py-3 border border-accent text-accent font-bold rounded-lg hover:bg-accent/10 transition-colors flex items-center justify-center gap-2">
+              <a href="/Curriculum_Vitae__EN___Hatem.pdf" target="_blank" className="px-8 py-3 border border-accent text-accent font-bold rounded-lg hover:bg-accent/10 transition-colors flex items-center justify-center gap-2">
                 <FileText size={20} /> {t.hero.btn_cv}
               </a>
             </div>

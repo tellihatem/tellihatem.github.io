@@ -112,6 +112,7 @@ export const translations = {
           description: "Innovative platform with seamless sharing and end-to-end encrypted chat functionality.",
           tags: ["Responsive", "Encryption", "Social", "PHP"],
           image: "https://placehold.co/600x400/1e293b/38bdf8?text=Social+Media+App",
+          repoUrl: "https://github.com/tellihatem/THODZ_Social_Media",
           demoUrl: "https://tricky-mureil-thodz-82f1b2c9.koyeb.app/",
           icon: "Smartphone"
         }
@@ -247,6 +248,7 @@ export const translations = {
           description: "Plateforme innovante avec partage transparent et fonctionnalité de chat crypté de bout en bout.",
           tags: ["PHP", "Responsive", "Social"],
           image: "https://placehold.co/600x400/1e293b/38bdf8?text=Reseau+Social",
+          repoUrl: "https://github.com/tellihatem/THODZ_Social_Media",
           demoUrl: "https://tricky-mureil-thodz-82f1b2c9.koyeb.app/",
           icon: "Smartphone"
         }
@@ -382,6 +384,7 @@ export const translations = {
           description: "منصة مبتكرة مع مشاركة سلسة ووظيفة دردشة مشفرة من البداية إلى النهاية.",
           tags: ["تطوير شامل", "تشفير", "تواصل اجتماعي", "PHP"],
           image: "https://placehold.co/600x400/1e293b/38bdf8?text=Social+Media+App",
+          repoUrl: "https://github.com/tellihatem/THODZ_Social_Media",
           demoUrl: "https://tricky-mureil-thodz-82f1b2c9.koyeb.app/",
           icon: "Smartphone"
         }

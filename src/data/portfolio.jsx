@@ -77,7 +77,7 @@ export const personalInfo = {
       tags: ["AI", "Security", "Python", "Deep Learning"],
       icon: <Shield />,
       image: "https://placehold.co/600x400/1e293b/38bdf8?text=Intelligent+Antivirus",
-      demoUrl: "/projects/antivirus/index.html" // Place your project files in public/projects/antivirus
+      demoUrl: "#" // Place your project files in public/projects/antivirus
     },
     {
       title: "Malware Classification System",
@@ -101,7 +101,8 @@ export const personalInfo = {
       tags: ["Full Stack", "Encryption", "Social"],
       icon: <Smartphone />,
       image: "https://placehold.co/600x400/1e293b/38bdf8?text=Social+Media+App",
-      demoUrl: "https://github.com/tellihatem/THODZ_Social_Media"
+      repoUrl: "https://github.com/tellihatem/THODZ_Social_Media",
+      demoUrl: "https://tricky-mureil-thodz-82f1b2c9.koyeb.app/"
     },
     {
       title: "New Project Title",

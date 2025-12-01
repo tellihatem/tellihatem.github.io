@@ -1,6 +1,9 @@
 # Hatem Telli - Professional Portfolio
 
 This is a lightweight, professional, and animated portfolio built with **React (Vite)** and **Tailwind CSS**.
+## Live Demo
+
+Check out the live view of this project here: [tellihatem.github.io](https://tellihatem.github.io)
 
 ## 🚀 Getting Started
 
